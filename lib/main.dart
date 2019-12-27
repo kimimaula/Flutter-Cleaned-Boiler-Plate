@@ -31,7 +31,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Mimo\'s Expense App'),
+        title: const Text('Testing'),
       ),
       body: Center(child: Text('$number')),
       backgroundColor: Colors.blue.shade200,
